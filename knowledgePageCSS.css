@@ -46,3 +46,16 @@ button {
     font-size: 1.5em;
 }
 
+h2 {
+    color:#81f6f0;
+}
+dt {
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+dd {
+    margin-bottom: 10px;
+}
+a:visited {
+    color: #b862f1; /* Change 'purple' to any color you prefer */
+}
